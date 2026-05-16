@@ -33,7 +33,7 @@ The original dataset contains a `Complain` column which had **82% feature import
 
 ---
 
-##  Screenshots
+##  Screenshot
 
 ###  Low Risk — Will Stay
 ![Low Risk](Screenshot/will_stay.png)
