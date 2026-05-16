@@ -1,4 +1,4 @@
-# ⬡ ChurnSense — Bank Customer Churn Prediction
+# ⬡ ChurnSense - Bank Customer Churn Prediction
 
 ML-powered bank customer churn prediction app built with Random Forest, FastAPI, and React.
 
@@ -35,19 +35,19 @@ The original dataset contains a `Complain` column which had **82% feature import
 
 ##  Screenshot
 
-###  Low Risk — Will Stay
+###  Low Risk - Will Stay
 ![Low Risk](Screenshot/will_stay.png)
 > Credit Score: 650 | France | Male | Age: 35 | Active Member → **1.0% churn probability**
 
 ---
 
-###  High Risk — Will Churn
+###  High Risk - Will Churn
 ![High Risk](Screenshot/will_churn_high.png)
 > Credit Score: 300 | Germany | Female | Age: 40 | Inactive → **63.0% churn probability**
 
 ---
 
-###  Medium Risk — Will Churn
+###  Medium Risk - Will Churn
 ![Medium Risk](Screenshot/will_churn_medium.png)
 > Credit Score: 400 | Germany | Female | Age: 40 | Inactive → **58.0% churn probability**
 
@@ -130,6 +130,6 @@ POST /predict
 ## 👤 Author
 
 **Md. Sakender Saikot**   
-MSc in Data Science (Ongoing) — AIUB  
+MSc in Data Science (Ongoing) - AIUB  
 GitHub: [github.com/Saikot313](https://github.com/Saikot313)
 
